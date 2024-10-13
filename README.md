@@ -1,12 +1,12 @@
-<h1 align="center">Varad Khedekar</h1>
+<h1 align="left">Varad Khedekar</h1>
 
 ###
 
-<h4 align="center">Third year IT undergrad, working on python, Kotlin development. Building web and android projects, fine tuning AI models. Keen about character design and Unity.</h4>
+<h4 align="left">Third year IT undergrad, working on python, Kotlin development. Building web and android projects, fine tuning AI models. Keen about character design and Unity.</h4>
 
 ###
 
-<p align="center">STATS:</p>
+<p align="left">STATS:</p>
 
 ###
 
@@ -17,11 +17,11 @@
 
 ###
 
-<p align="center">TECH STACK:</p>
+<p align="left">TECH STACK:</p>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -49,11 +49,11 @@
 
 ###
 
-<p align="center">SOCIALS:</p>
+<p align="left">SOCIALS:</p>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/varad-khedekar-286181263/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
