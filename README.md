@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">STATS:</p>
+<p align="center">STATS:</p>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">TECH STACK:</p>
+<p align="center">TECH STACK:</p>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<p align="left">SOCIALS:</p>
+<p align="center">SOCIALS:</p>
 
 ###
 
