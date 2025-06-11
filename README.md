@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Third year IT undergrad, working on python, Kotlin development. Building web and android projects, fine tuning AI models. Keen about character design and Unity.</h4>
+<h4 align="left">Final year IT undergrad with an experience working on python, android development. Building web, data science and android projects, fine tuning and working with ML models. Keen about character design, C# and Unity engine.</h4>
 
 ###
 
