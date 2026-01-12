@@ -24,8 +24,12 @@ Intrigued by character design and Unity systems.
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=varadk20&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
-![](https://streak-stats.demolab.com?user=varadk20&theme=dark&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=varadk20&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=varadk20&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=varadk20&layout=compact&theme=radical" />
+</p>
+
+
+
+
